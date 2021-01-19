@@ -1,4 +1,4 @@
-# Hi, I'm Amit Kumar 👋🏼👨🏻‍💻
+# Hi, I'm Akash Pimpalkar 👋🏼👨🏻‍💻
 
 
 
@@ -26,7 +26,7 @@ I am a self-motivated and passionate  individual who loves to code👨🏻‍�
 
 </br></br>
 
- <img  align="right" src="https://github-readme-stats.vercel.app/api?username=amitravikumar&show_icons=true&text_color=fff&icon_color=00C853&title_color=00C853&bg_color=202020">
+ <img  align="right" src="https://github-readme-stats.vercel.app/api?username=Akashpimpalkar97&show_icons=true&text_color=fff&icon_color=00C853&title_color=00C853&bg_color=202020">
 
 ## **My Tech** 👨🏻‍🔧
 
@@ -41,9 +41,9 @@ I am a self-motivated and passionate  individual who loves to code👨🏻‍�
 
 ## **View my portfolio** 
 
-### **<a href="https://amitravikumar.github.io" target="_blank">Amit Kumar</a>**
+### **<a href="https://akash-ac342.web.app/" target="_blank">Akash Pimpalkar</a>**
 
 </br>
 </br>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=amitravikumar" alt="amitravikumar" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Akashpimpalkar97" alt="amitravikumar" /> </p>
